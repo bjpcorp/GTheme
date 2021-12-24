@@ -1,30 +1,27 @@
 # GTheme
-Collection of custom svg icons for theme in Gramps Geneology Software.
+Collection of custom svg icons for themes in Gramps Geneology Software.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
 
 ## Getting Started
 
 ### Dependencies
 
 * Gramps
-
-### Installing
-
-Download...
+* inkscape
 
 ## Help
 
 Building an addon for Gramps?
 ```
-Request info on icon design.
+Check out the Tango icon Guildines [Tango Icon Theme Guidelines](http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines)
 ```
 
 ## Authors
 
-Contributors names and contact info
+Contributors names and contact info:
 
 -bjpcop
 
@@ -40,4 +37,9 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
+* [Linked View Plugin](https://github.com/cdhorn/LinkedView)
+* [The Gramps Project](https://github.com/gramps-project/gramps)
+* [adwaita-icon-theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme)
+* [GNOME](https://gitlab.gnome.org/GNOME/)
+* [Tango icons](https://commons.wikimedia.org/wiki/Tango_icons)
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
