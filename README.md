@@ -1,5 +1,5 @@
 # GTheme
-Collection of custom svg icons for themes in [The Gramps Project](https://github.com/gramps-project/gramps) Geneology Software.
+Collection of default and custom svg icons for themes in [The Gramps Project](https://github.com/gramps-project/gramps) Geneology Software.
 
 ## Description
 
