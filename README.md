@@ -15,7 +15,7 @@ SVG Collection of default and new icons for use with Gramps Geneology Software, 
 ## Help
 
 Building an addon for Gramps?
-Check out the Tango icon Guildines:
+Check out the Tango icon Guidelines:
 ```
 http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
 ```
