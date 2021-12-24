@@ -1,5 +1,5 @@
 # GTheme
-Collection of custom svg icons for themes in Gramps Geneology Software.
+Collection of custom svg icons for themes in [The Gramps Project](https://github.com/gramps-project/gramps) Geneology Software.
 
 ## Description
 
@@ -38,9 +38,8 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Linked View Plugin](https://github.com/cdhorn/LinkedView)
 * [The Gramps Project](https://github.com/gramps-project/gramps)
-* [adwaita-icon-theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme)
+* [Linked View Plugin](https://github.com/cdhorn/LinkedView)
 * [GNOME](https://gitlab.gnome.org/GNOME/)
-* [Tango icons](https://commons.wikimedia.org/wiki/Tango_icons)
+* [Tango icons](https://commons.wikimedia.org/wiki/Tango_icons)* [adwaita-icon-theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme)
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
