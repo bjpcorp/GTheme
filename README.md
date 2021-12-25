@@ -42,5 +42,5 @@ Inspiration, code snippets, etc.
 * [Linked View Plugin](https://github.com/cdhorn/LinkedView)
 * [GNOME](https://gitlab.gnome.org/GNOME/)
 * [Tango icons](https://commons.wikimedia.org/wiki/Tango_icons)
-* * [adwaita-icon-theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme)
+* [adwaita-icon-theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme)
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
