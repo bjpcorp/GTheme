@@ -1,9 +1,9 @@
 # GTheme
-Working files of default and custom svg icons for use in themes for [The Gramps Project](https://github.com/gramps-project/gramps) Geneology Software.
+Working files default and custom SVG icons for use in themes for [The Gramps Project](https://github.com/gramps-project/gramps) Geneology Software.
 
 ## Description
 
-Working fles, SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
+Working files, SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
 
 
 ### Dependencies
