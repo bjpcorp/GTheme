@@ -6,24 +6,22 @@ Working files of default and custom svg icons for use in themes for [The Gramps 
 Working fles, SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
 
 
-## Getting Started
-
-
 ### Dependencies
 
 * Gramps
-* inkscape
+* Inkscape
 
 ## Help
 
 Building an addon for Gramps?
+
 Check out the Tango icon Guidelines:
 
 http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
 
 ## Authors
 
-Contributors names and contact info:
+Contributors:
 
 -bjpcop
 
@@ -31,10 +29,6 @@ Contributors names and contact info:
 
 * 0.1
     * Unreleased
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
