@@ -33,7 +33,10 @@ Contributors:
 
 * 0.1
     * Unreleased
-
+* 0.2
+    * Unreleased
+* 0.3
+    * Unreleased
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
