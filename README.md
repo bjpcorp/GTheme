@@ -5,11 +5,21 @@
 # GTheme
 Working files default and custom SVG icons for use in themes for [The Gramps Project](https://github.com/gramps-project/gramps) Geneology Software.
 
+https://gramps-project.org/wiki/index.php/Template:Icon/doc
 https://gramps-project.org/wiki/index.php/Gramps_icon_set
 
 ## Description
 
 Working files, SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
+
+16x16px 24x24px 48x48px SVG
+
+Primary Gramps object icons
+Derived relations and main views
+Secondary Gramps object icons
+Actions
+Geography types
+
 
 
 ### Dependencies
@@ -29,7 +39,7 @@ http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
 
 Contributors:
 
--bjpcop
+-bjpcorp
 
 ## Version History
 
