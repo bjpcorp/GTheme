@@ -12,13 +12,16 @@ https://gramps-project.org/wiki/index.php/Gramps_icon_set
 
 Working files, SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
 
-16x16px 24x24px 48x48px SVG
+* 16x16px
+* 24x24px
+* 48x48px
+* SVG
 
-Primary Gramps object icons
-Derived relations and main views
-Secondary Gramps object icons
-Actions
-Geography types
+* Primary Gramps object icons
+* Derived relations and main views
+* Secondary Gramps object icons
+* Actions
+* Geography types
 
 
 
