@@ -12,10 +12,7 @@ Working files default and custom SVG icons for use in themes for [The Gramps Pro
 
 Working files, SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
 
-* 16x16px
-* 24x24px
-* 48x48px
-* SVG
+16x16px | 24x24px | 48x48px | SVG
 
 * Primary Gramps object icons
 * Derived relations and main views
