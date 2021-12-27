@@ -1,11 +1,10 @@
 <p align="center">
-   <img src="https://repository-images.githubusercontent.com/441462484/15879723-b6f4-44a8-9b07-f4cd2741d8e0" width="100%">
+   <img src="https://repository-images.githubusercontent.com/441462484/15879723-b6f4-44a8-9b07-f4cd2741d8e0" width="50%">
 </p>
 
 # GTheme
 Working files default and custom SVG icons for use in themes for [The Gramps Project](https://github.com/gramps-project/gramps) Geneology Software.
 
-* https://gramps-project.org/wiki/index.php/Template:Icon/doc
 * https://gramps-project.org/wiki/index.php/Gramps_icon_set
 
 ## Description
@@ -28,6 +27,10 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
 * Inkscape
 
 ## Help
+
+Gramps Project Icon Template
+https://gramps-project.org/wiki/index.php/Template:Icon/doc
+
 
 Building an addon for Gramps?
 
