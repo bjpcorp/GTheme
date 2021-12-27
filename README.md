@@ -1,4 +1,4 @@
-<img src="Gramps-Stencil-003.png" width="300">
+<img align="centre" src="Gramps-Stencil-003.png" width="300">
 
 # GTheme
 Working files default and custom SVG icons for use in themes for [The Gramps Project](https://github.com/gramps-project/gramps) Geneology Software.
