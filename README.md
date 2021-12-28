@@ -44,6 +44,12 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
 </p>
 
 * Secondary Gramps object icons
+<p float="left">
+  <img src="/gtheme-icons/gramps-address.svg" width="100" />
+  <img src="/gtheme-icons/gramps-attribute.svg" width="100" /> 
+  <img src="/gtheme-icons/gramps-date.svg" width="100" />
+</p>
+
 * Actions
 * Geography types
 
