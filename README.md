@@ -11,7 +11,7 @@ Working files default and custom SVG icons for use in themes for [The Gramps Pro
 
 Working files, SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
 
-* Primary Gramps object icons
+Primary Gramps object icons:
 <p float="left">
   <img src="/gtheme-icons/gramps-pedigree.svg" width="48" alt="pedigree" />
   <img src="/gtheme-icons/gramps-gramplet.svg" width="48" /> 
@@ -28,7 +28,7 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
   <img src="/gtheme-icons/gramps-notes.svg" width="48" />
 </p>
 
-* Derived relations and main views
+Derived relations and main views:
 <p float="left">
   <img src="/gtheme-icons/gramps-parents.svg" width="48" />
   <img src="/gtheme-icons/gramps-parents-add.svg" width="48" /> 
@@ -43,14 +43,14 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
   <img src="/gtheme-icons/gramps-tree-list.svg" width="48" />
 </p>
 
-* Secondary Gramps object icons
+Secondary Gramps object icons:
 <p float="left">
   <img src="/gtheme-icons/gramps-address.svg" width="48" />
   <img src="/gtheme-icons/gramps-attribute.svg" width="48" /> 
   <img src="/gtheme-icons/gramps-date.svg" width="48" />
 </p>
 
-* Actions
+Actions:
 <p float="left">
   <img src="/gtheme-icons/gramps-bookmark.svg" width="48" />
   <img src="/gtheme-icons/gramps-bookmark-delete.svg" width="48" /> 
@@ -74,7 +74,7 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
   <img src="/gtheme-icons/gramps-zoom-out.svg" width="48" />
 </p>
 
-* Geography types
+Geography types:
 <p float="left">
   <img src="/gtheme-icons/geo-fixed-zoom.svg" width="48" />
   <img src="/gtheme-icons/geo-free-zoom.svg" width="48" /> 
@@ -88,7 +88,7 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
   <img src="/gtheme-icons/gramps-geo-altmap.svg" width="48" />
 </p>
 
-16x16px | 24x24px | 48x48px | SVG
+Sizes: 16x16px | 24x24px | 48x48px | SVG
 
 ### Dependencies
 
