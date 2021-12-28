@@ -12,14 +12,6 @@
 11. [Things To Keep In Mind](#things-to-keep-in-mind)
 12. [Frequent Mistakes](#frequent-mistakes)
 
-
-| 1. [Introduction](#Introduction) | 2. [Colour Palette](#Colour-Palette) |
-| 3. [Defining Gramps Style Elements](#defining-gramps-style-elements) | 4. [Style Attributes](#style-attributes) |
-| 5. [Perspective](#perspective) | 6. [Lighting](#lighting) |
-| 7. [Sizes](#sizes) | 8. [Common Filenaming](#common-filenaming) |
-| 9. [Metainformation](#metainformation) | 10. [Suggested Workflow Support Files](#suggested-workflow--support-files) |
-| 11. [Things To Keep In Mind](#things-to-keep-in-mind) | 12. [Frequent Mistakes](#frequent-mistakes) |
-
 ## Introduction
 The Gramps icon theme's goal is to create a distinctive theme guide for Gramps icons. A user running a multiplatform application should not have the impression that the look is unpolished and incosistent with what he or she is used to. While this isn't about merging styles of all desktop systems, we do aim to not be drastically different on each platform.
 
@@ -63,7 +55,6 @@ To better understand the style of Tango, consider the following adjectives:
 - Modern
 - Well-balanced
 
-
 ## Perspective
 
 There are three types of perspective defined for Gramps.
@@ -76,7 +67,6 @@ This type of perspective is the most common for application icons. Action/Toolba
 
 ### 3. Tilted Table
 In cases where the object's appearance is more evident from an angle, you are free to use the tilted table perspective—but this is the least common perspective of the three and should be used only in cases where the other two do not provide a clearly distinctive silhouette of the object.
-
 
 ## Lighting
 Having homogenous lighting across all icons also is important for visual consistency. Tango icons are lit from above, with the light source slightly to the left. Icons with on the table perspective may cast a fuzzy shadow on the surface as if the light source came from the position of the observer.
@@ -102,7 +92,6 @@ At 16×16 pixels, the "Extra Small" size is used in places such as lists (file d
 ### - X-Large
 This size has been introduced fairly recently and is optional. Unless you are an experienced icon designer, do not start with this size as it goes against most of the good practice for icon design. You will be required to add insane amounts of detail and might end up with an unclear and complex metaphor. The canvas size is 256x256px and unlike all the other sizes, this artwork can be scaled from 49px up. In other words -- do not aim for pixel perfection here.
 This size also holds another exception to the rule of stroking. Do not stroke x-large icons with the 1px common everywhere. In Inkscape we use a trick that achieves a similar contrast enhancing effect without losing upwards scalability. You create an outline object with no fill and a stroke of 3px. Then you duplicate such object and use the copy to clip itself. After blurring the object, the inside of the silhouette gets nicely shaded, while the outside is crisp. Instead of the inner stroke, use path shapes. Blur is a useful tool here as well.
-
 
 ## Common Filenaming
 Until now, there has not been a standard for naming conventions. This resulted in themes which have not worked globally, as individual projects have used different names for the same icon.
