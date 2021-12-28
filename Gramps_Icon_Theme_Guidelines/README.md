@@ -60,22 +60,25 @@ To better understand the style of Gramps, consider the following adjectives:
 
 ## Perspective
 
-There are three types of perspective defined for Gramps.
+There are three types of perspective defined for Gramps:
+
+### 1. Flat/On the Shelf Perspective
 
 ![Flat On The Shelf Perspective](On-the-shelf-perspective.png)
 
-### 1. Flat/On the Shelf Perspective
 This style resembles looking at an object on a shelf at eye level, looking at an object from above, or laying on surface. This is the most common perspective for toolbar icons and document mime type icons.
 
-![On The Table Perspective](Table-perspective.png)
-
-### 2. On the Table
-This type of perspective is the most common for application icons. Action/Toolbar icons also utilize this perspective from time to time.
+### 2. Tilted Table
 
 ![Tilted Table Perspective](tilted-table-perspective.png)
 
-### 3. Tilted Table
 In cases where the object's appearance is more evident from an angle, you are free to use the tilted table perspective—but this is the least common perspective of the three and should be used only in cases where the other two do not provide a clearly distinctive silhouette of the object.
+
+### 3. On the Table
+
+![On The Table Perspective](Table-perspective.png)
+
+This type of perspective is the most common for application icons. Action/Toolbar icons also utilize this perspective from time to time.
 
 ## Lighting
 
