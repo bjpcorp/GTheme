@@ -8,6 +8,10 @@ Along with a generic type fallback, having a similar style will help in the tran
 
 ## Color Palette
 
+<p align="center">
+  <img src="https://github.com/bjpcorp/GTheme/blob/main/Gramps_Icon_Theme_Guidelines/gramps-colour-palette.png" width="350" title="Gramps Colour Palette">
+</p>
+
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 
