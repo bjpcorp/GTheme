@@ -87,15 +87,10 @@ Having homogenous lighting across all icons also is important for visual consist
 ## Sizes
 There are 4 major icon sizes defined that an icon theme should contain: Large, Medium, Small and Extra Small. Each of these sizes needs to be treated separately, simple scaling of a larger icon doesn't work and ends up looking fuzzy and unclear. On top of that, a new optional size, X-Large, has been introduced.
 
-### - Large
-![Large Folder](x-directory-normal-drag-accept.png)
+### - X-Small
+![X-Small Folder](x-directory-normal-drag-accept3.png)
 
-This size is mainly used for desktop icons and in the file manager views. The bitmap size is 48×48 pixels.
-
-### - Medium
-![Medium Folder](x-directory-normal-drag-accept1.png)
-
-A very common size of 32x32px is used on some menus (slab) and very common on Windows.
+At 16×16 pixels, the "Extra Small" size is used in places such as lists (file dialog, message list in an e-mail client, etc.) and menus.
 
 ### - Small
 ![Small Folder](x-directory-normal-drag-accept2.png)
@@ -108,10 +103,15 @@ Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1
 
 ```convert -bordercolor Transparent -border 1x1 gramps_size.png gnome_size.png```
 
-### - X-Small
-![X-Small Folder](x-directory-normal-drag-accept3.png)
+### - Medium
+![Medium Folder](x-directory-normal-drag-accept1.png)
 
-At 16×16 pixels, the "Extra Small" size is used in places such as lists (file dialog, message list in an e-mail client, etc.) and menus.
+A very common size of 32x32px is used on some menus (slab) and very common on Windows.
+
+### - Large
+![Large Folder](x-directory-normal-drag-accept.png)
+
+This size is mainly used for desktop icons and in the file manager views. The bitmap size is 48×48 pixels.
 
 ### - X-Large
 ![X-Large Folder](x-directory-normal-drag-accept4.png)
