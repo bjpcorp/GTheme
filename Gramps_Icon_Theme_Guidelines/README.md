@@ -127,10 +127,11 @@ Here are a few things we suggest you take in consideration when transition from 
 - Every icon requires all the sizes provided.
 
 ## Frequent Mistakes
-![Bad Buttonizing](Bad-buttonizing.png)
+![Bad Buttonizing](180px-Bad-buttonizing.png)
 
 This icon does not have an easily distinguishable silhouette.
-![Bad Polarizing](Bad-polarizing.png)
+
+![Bad Polarizing](180px-Bad-polarizing.png)
 
 The overdone shiny, reflective highlight obscures the actual content.
 
