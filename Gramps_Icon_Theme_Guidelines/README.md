@@ -88,10 +88,15 @@ Having homogenous lighting across all icons also is important for visual consist
 There are 4 major icon sizes defined that an icon theme should contain: Large, Medium, Small and Extra Small. Each of these sizes needs to be treated separately, simple scaling of a larger icon doesn't work and ends up looking fuzzy and unclear. On top of that, a new optional size, X-Large, has been introduced.
 
 ### - Large
+![Large Folder](x-directory-normal-drag-accept.png)
 This size is mainly used for desktop icons and in the file manager views. The bitmap size is 48×48 pixels.
 ### - Medium
+![Medium Folder](x-directory-normal-drag-accept.png=32x32)
+
 A very common size of 32x32px is used on some menus (slab) and very common on Windows.
 ### - Small
+![Small Folder](x-directory-normal-drag-accept2.png)
+
 "Small" is the common size for application toolbar icons.
 
 Its bitmap size is 22×22 pixels. This size is common for toolbars in KDE and the GIMP.
@@ -101,6 +106,8 @@ Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1
 ```convert -bordercolor Transparent -border 1x1 gramps_size.png gnome_size.png```
 
 ### - X-Small
+![X-Small Folder](x-directory-normal-drag-accept3.png)
+
 At 16×16 pixels, the "Extra Small" size is used in places such as lists (file dialog, message list in an e-mail client, etc.) and menus.
 ### - X-Large
 This size has been introduced fairly recently and is optional. Unless you are an experienced icon designer, do not start with this size as it goes against most of the good practice for icon design. You will be required to add insane amounts of detail and might end up with an unclear and complex metaphor. The canvas size is 256x256px and unlike all the other sizes, this artwork can be scaled from 49px up. In other words -- do not aim for pixel perfection here.
