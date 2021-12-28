@@ -27,8 +27,20 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
   <img src="/gtheme-icons/gramps-repository.svg" width="100" />
   <img src="/gtheme-icons/gramps-notes.svg" width="100" />
 </p>
-
 * Derived relations and main views
+<p float="left">
+  <img src="/gtheme-icons/gramps-parents.svg" width="100" />
+  <img src="/gtheme-icons/gramps-parents-add.svg" width="100" /> 
+  <img src="/gtheme-icons/gramps-parents-open.svg" width="100" />
+  <img src="/gtheme-icons/gramps-pedigree.svg" width="100" />
+  <img src="/gtheme-icons/gramps-relation.svg" width="100" />
+  <img src="/gtheme-icons/gramps-spouse.svg" width="100" />
+  <img src="/gtheme-icons/gramps-view.svg" width="100" />
+  <img src="/gtheme-icons/gramps-config.svg" width="100" />
+  <img src="/gtheme-icons/gramps-fanchart.svg" width="100" />
+  <img src="/gtheme-icons/gramps-tree-group.svg" width="100" />
+  <img src="/gtheme-icons/gramps-tree-list.svg" width="100" />
+</p>
 * Secondary Gramps object icons
 * Actions
 * Geography types
