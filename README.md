@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://repository-images.githubusercontent.com/441462484/15879723-b6f4-44a8-9b07-f4cd2741d8e0" width="80%">
+   <img src="https://repository-images.githubusercontent.com/441462484/15879723-b6f4-44a8-9b07-f4cd2741d8e0" width="95%">
 </p>
 
 # GTheme
@@ -113,11 +113,8 @@ Contributors:
 ## Version History
 
 * 0.1
-    * Unreleased
-* 0.2
-    * Unreleased
-* 0.3
-    * Unreleased
+    * WIP
+
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
