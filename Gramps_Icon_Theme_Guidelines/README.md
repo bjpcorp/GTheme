@@ -113,7 +113,12 @@ The bitmap size is 48×48 pixels. This size is mainly used for desktop icons and
 ### - X-Large
 ![X-Large Folder](x-directory-normal-drag-accept4.png)
 
-This size has been introduced fairly recently and is optional. Unless you are an experienced icon designer, do not start with this size as it goes against most of the good practice for icon design. You will be required to add insane amounts of detail and might end up with an unclear and complex metaphor. The canvas size is 256x256px and unlike all the other sizes, this artwork can be scaled from 49px up. In other words -- do not aim for pixel perfection here.
+This size has been introduced fairly recently and is optional.
+
+Unless you are an experienced icon designer, do not start with this size as it goes against most of the good practice for icon design. You will be required to add insane amounts of detail and might end up with an unclear and complex metaphor.
+
+The canvas size is 256x256px and unlike all the other sizes, this artwork can be scaled from 49px up. In other words -- do not aim for pixel perfection here.
+
 This size also holds another exception to the rule of stroking. Do not stroke x-large icons with the 1px common everywhere. In Inkscape we use a trick that achieves a similar contrast enhancing effect without losing upwards scalability. You create an outline object with no fill and a stroke of 3px. Then you duplicate such object and use the copy to clip itself. After blurring the object, the inside of the silhouette gets nicely shaded, while the outside is crisp. Instead of the inner stroke, use path shapes. Blur is a useful tool here as well.
 
 ## Common Filenaming
