@@ -79,6 +79,9 @@ This type of perspective is the most common for application icons. Action/Toolba
 In cases where the object's appearance is more evident from an angle, you are free to use the tilted table perspective—but this is the least common perspective of the three and should be used only in cases where the other two do not provide a clearly distinctive silhouette of the object.
 
 ## Lighting
+
+![Lighting](100px-Lighting.png)
+
 Having homogenous lighting across all icons also is important for visual consistency. Tango icons are lit from above, with the light source slightly to the left. Icons with on the table perspective may cast a fuzzy shadow on the surface as if the light source came from the position of the observer.
 
 ## Sizes
