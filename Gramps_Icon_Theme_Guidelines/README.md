@@ -94,9 +94,7 @@ At 16×16 pixels, the "Extra Small" size is used in places such as lists (file d
 ### - Small
 ![Small Folder](x-directory-normal-drag-accept2.png)
 
-"Small" is the common size for application toolbar icons.
-
-Its bitmap size is 22×22 pixels. This size is common for toolbars in KDE and the GIMP.
+Its bitmap size is 22×22 pixels. "Small" is the common size for application toolbar icons in KDE and the GIMP
 
 Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1 pixel empty space on all sides can make Gramps icons useful on the Gnome desktop.
 
@@ -106,17 +104,18 @@ One can easily do this with imagemagick:
 ### - Medium
 ![Medium Folder](x-directory-normal-drag-accept1.png)
 
-A very common size of 32x32px is used on some menus (slab) and very common on Windows.
+A very common size of 32x32 pixels is used on some menus (slab) and very common on Windows.
 
 ### - Large
 ![Large Folder](x-directory-normal-drag-accept.png)
 
-This size is mainly used for desktop icons and in the file manager views. The bitmap size is 48×48 pixels.
+The bitmap size is 48×48 pixels. This size is mainly used for desktop icons and in the file manager views.
 
 ### - X-Large
 ![X-Large Folder](x-directory-normal-drag-accept4.png)
 
 This size has been introduced fairly recently and is optional. Unless you are an experienced icon designer, do not start with this size as it goes against most of the good practice for icon design. You will be required to add insane amounts of detail and might end up with an unclear and complex metaphor. The canvas size is 256x256px and unlike all the other sizes, this artwork can be scaled from 49px up. In other words -- do not aim for pixel perfection here.
+
 This size also holds another exception to the rule of stroking. Do not stroke x-large icons with the 1px common everywhere. In Inkscape we use a trick that achieves a similar contrast enhancing effect without losing upwards scalability. You create an outline object with no fill and a stroke of 3px. Then you duplicate such object and use the copy to clip itself. After blurring the object, the inside of the silhouette gets nicely shaded, while the outside is crisp. Instead of the inner stroke, use path shapes. Blur is a useful tool here as well.
 
 ## Common Filenaming
@@ -137,9 +136,17 @@ Inkscape users can conveniently enter the data in the document properties (Ctrl+
 While each artist prefers his or her own way of working, here's a suggestion how to create all the needed icon versions with as little effort as possible.
 
 Start with the vector icon, having an extra 1:1 view to precisely positioned orthogonals.
+
 Once finished with the SVG icon, render the icon at 22×22 pixels (either as an export from your vector software or as an import in your bitmap editor) and use the results as a starting point. Most of the time, all you need to do is to recreate the outline stroke and the inner Gramps highlight with a 1×1 pixel brush.
+
 The 16×16 pixel version may start from the SVG as well, but usually the shapes need to be simplified significantly. Having the 22×22 pixel version open just for precise color picking is enough. Sometimes it's also good to start with a detail of the 22×22 pixel version.
+
 Here's a few sample videos of a Tango icon creation workflow in Inkscape and GIMP.
+
+[![Creating Vector Icons with Inkscape](https://img.youtube.com/vi/NRVUWRnH5FM/0.jpg)](https://www.youtube.com/watch?v=NRVUWRnH5FM)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 Alternatively, you can create the low resolution version in the vector editor as well:
 
