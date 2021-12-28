@@ -13,7 +13,7 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
 
 * Primary Gramps object icons
 <p float="left">
-  <img src="/gtheme-icons/gramps.svg" width="100" />
+  <img src="/gtheme-icons/gramps-pedigree.svg" width="100" />
   <img src="/img2.png" width="100" /> 
   <img src="/img3.png" width="100" />
 </p>
