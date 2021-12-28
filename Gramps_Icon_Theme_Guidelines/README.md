@@ -25,14 +25,14 @@ There are many attributes of an icon that define it as part of Gramps, including
 
 Let's examine at the key visual aspects that define the style:
 
-1. Object Outline:
+### 1. Object Outline:
 All Gramps icons are stroked with a thin outline to improve contrast. At low resolutions the stroke size is 1px. The stroke should not scale along with the icon, it should remain 1px.
 The color of the outline is a dark variant of the key color of the icon. This is done by retaining the hue and saturation of the dominant fill color and lowering the value to approximately 20%). In the example above, the trashcan is green, so the stroke will be green as well.
 
-2. Highlights:
+### 2. Highlights:
 The edges of objects tend to reflect light more due to the fact the position of the observer relative to the light source is almost always ideal for the reflection. In terms of highlights, the theme inherits the style of Tango, Firefox/Thunderbird, Pinstripe/Winstripe designed by Kevin Gerich & Stephen Horlander (Pinstripe, Winstripe) which shift away from reality by creating a second inner outline of the object. This stroke is very subtle and may not be apparent on some matte objects.
 
-3. Glossy Reflections:
+### 3. Glossy Reflections:
 Use glossy reflection only on objects that have a reflective surface in real life (plastic, glass, some metal, et cetera). A sheet of paper certainly doesn't have such attribute.
 Various elements have been picked from existing icon styles: Similar perspective as GNOME icons, a colored object stroke from KDE, an Aqua-like highlight influenced by Mac OS X, and edge highlights and overall lightness from the Firefox Pinstripe theme.
 
