@@ -12,7 +12,6 @@
 11. [Things To Keep In Mind](#things-to-keep-in-mind)
 12. [Frequent Mistakes](#frequent-mistakes)
 
-| Syntax | Description |
 | --- | ----------- |
 | 1. [Introduction](#Introduction) | 2. [Colour Palette](#Colour-Palette) |
 | 3. [Defining Gramps Style Elements](#defining-gramps-style-elements) | 4. [Style Attributes](#style-attributes) |
