@@ -32,14 +32,14 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="7.145574"
-     inkscape:cx="13.574837"
+     inkscape:cx="13.714783"
      inkscape:cy="13.085023"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g4348">
     <inkscape:grid
        type="xygrid"
        id="grid4462"
@@ -1147,18 +1147,16 @@
              d="M 11.803734,12.474609 7.8122567,32.239668 c 0,0 17.1442613,10e-7 24.4261253,10e-7 11.226639,0 14.110429,-2.850865 14.110429,-2.850865 0,0 -2.99306,-1.862842 -4.293392,-6.381499 0,0 -2.738563,-10.461267 -2.738563,-10.461267 z"
              style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.06095px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:ae_Ouhod;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2463);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="13.223552"
-           y="32.57518"
+        <g
+           aria-label="3"
+           transform="scale(1.1277813,0.8866967)"
            id="text2185"
-           transform="scale(1.1277813,0.8866967)"><tspan
-             sodipodi:role="line"
-             id="tspan2187"
-             x="13.223552"
-             y="32.57518"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6927px;line-height:125%;font-family:ae_Ouhod;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2463);fill-opacity:1">2</tspan></text>
+           style="font-weight:bold;line-height:0%;font-family:ae_Ouhod;fill:url(#linearGradient2463);stroke-width:1px">
+          <path
+             d="m 24.249324,26.204328 q 0.447237,0.383347 0.711929,0.894475 0.264691,0.511129 0.264691,1.359967 0,0.958366 -0.383346,1.78895 -0.374219,0.830584 -1.159167,1.423858 -0.766692,0.575019 -1.807204,0.885347 -1.031384,0.301201 -2.510006,0.301201 -1.688549,0 -2.90248,-0.264691 -1.204803,-0.264692 -1.962368,-0.593275 v -2.984625 h 0.355964 q 0.784948,0.474619 1.871096,0.821457 1.095275,0.346837 1.998877,0.346837 0.529384,0 1.15004,-0.08215 0.620656,-0.09127 1.049638,-0.383346 0.33771,-0.228183 0.538511,-0.547638 0.2008,-0.328582 0.2008,-0.940111 0,-0.593274 -0.273819,-0.91273 -0.273818,-0.328582 -0.721056,-0.465492 -0.447237,-0.146036 -1.077021,-0.155164 -0.629783,-0.01825 -1.168293,-0.01825 h -0.748438 v -2.427861 h 0.77582 q 0.711929,0 1.259566,-0.04564 0.547638,-0.04564 0.930984,-0.209928 0.401601,-0.173419 0.602402,-0.456365 0.2008,-0.292073 0.2008,-0.848838 0,-0.410728 -0.209928,-0.657165 -0.209927,-0.255565 -0.529383,-0.401601 -0.355964,-0.164292 -0.839711,-0.219055 -0.483746,-0.05476 -0.830584,-0.05476 -0.857965,0 -1.861968,0.301201 -1.004002,0.292073 -1.944113,0.848838 h -0.33771 v -2.948116 q 0.748438,-0.301201 2.035386,-0.57502 1.286949,-0.282946 2.610407,-0.282946 1.286948,0 2.254441,0.228183 0.967494,0.219055 1.597277,0.593274 0.748438,0.447237 1.11353,1.086148 0.365092,0.63891 0.365092,1.496876 0,1.131785 -0.702802,2.02626 -0.702802,0.885347 -1.852841,1.131784 v 0.127782 q 0.465492,0.06389 0.985748,0.255564 0.520256,0.191674 0.949239,0.556765 z"
+             style="font-size:18.6927px;line-height:125%"
+             id="path9424" />
+        </g>
         <g
            id="g2425"
            transform="matrix(1,0,0.10473,1,5.5833136,33.0745)">
