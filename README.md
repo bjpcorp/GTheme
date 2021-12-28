@@ -18,6 +18,14 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
   <img src="/gtheme-icons/gramps-person.svg" width="100" />
   <img src="/gtheme-icons/gramps-family.svg" width="100" />
   <img src="/gtheme-icons/gramps-relation.svg" width="100" />
+  <img src="/gtheme-icons/gramps-event.svg" width="100" />
+  <img src="/gtheme-icons/gramps-source.svg" width="100" />
+  <img src="/gtheme-icons/gramps-citation.svg" width="100" />
+  <img src="/gtheme-icons/gramps-media.svg" width="100" />
+  <img src="/gtheme-icons/gramps-place.svg" width="100" />
+  <img src="/gtheme-icons/gramps-geo.svg" width="100" />
+  <img src="/gtheme-icons/gramps-repository.svg" width="100" />
+  <img src="/gtheme-icons/gramps-notes.svg" width="100" />
 </p>
 
 * Derived relations and main views
