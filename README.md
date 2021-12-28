@@ -84,7 +84,6 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
   <img src="/gtheme-icons/geo-show-family.svg" width="48" />
   <img src="/gtheme-icons/geo-show-person.svg" width="48" />
   <img src="/gtheme-icons/geo-show-place.svg" width="48" />
-  <img src="/gtheme-icons/gramps-fanchart.svg" width="48" />
   <img src="/gtheme-icons/gramps-geo-mainmap.svg" width="48" />
   <img src="/gtheme-icons/gramps-geo-altmap.svg" width="48" />
 </p>
