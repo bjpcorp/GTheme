@@ -11,15 +11,13 @@ Working files default and custom SVG icons for use in themes for [The Gramps Pro
 
 Working files, SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
 
-16x16px | 24x24px | 48x48px | SVG
-
 * Primary Gramps object icons
 * Derived relations and main views
 * Secondary Gramps object icons
 * Actions
 * Geography types
 
-
+16x16px | 24x24px | 48x48px | SVG
 
 ### Dependencies
 
@@ -36,7 +34,9 @@ Building an addon for Gramps?
 
 Check out the Tango icon Guidelines:
 
-http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+[Gramps Icon Theme Guidelines](https://github.com/bjpcorp/GTheme/tree/main/Gramps_Icon_Theme_Guidelines#readme)
+
+Based on the [Tango Icon Theme Guidelines](http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines)
 
 ## Authors
 
