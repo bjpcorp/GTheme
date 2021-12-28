@@ -86,14 +86,12 @@ Having homogenous lighting across all icons also is important for visual consist
 ## Sizes
 There are 4 major icon sizes defined that an icon theme should contain: Large, Medium, Small and Extra Small. Each of these sizes needs to be treated separately, simple scaling of a larger icon doesn't work and ends up looking fuzzy and unclear. On top of that, a new optional size, X-Large, has been introduced.
 
-### - X-Small
 ![X-Small Folder](x-directory-normal-drag-accept3.png)
-
+### - X-Small
 At 16×16 pixels, the "Extra Small" size is used in places such as lists (file dialog, message list in an e-mail client, etc.) and menus.
 
-### - Small
 ![Small Folder](x-directory-normal-drag-accept2.png)
-
+### - Small
 Its bitmap size is 22×22 pixels. "Small" is the common size for application toolbar icons in KDE and the GIMP
 
 Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1 pixel empty space on all sides can make Gramps icons useful on the Gnome desktop.
@@ -101,19 +99,16 @@ Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1
 One can easily do this with imagemagick:
 ```convert -bordercolor Transparent -border 1x1 gramps_size.png gnome_size.png```
 
-### - Medium
 ![Medium Folder](x-directory-normal-drag-accept1.png)
-
+### - Medium
 A very common size of 32x32 pixels is used on some menus (slab) and very common on Windows.
 
-### - Large
 ![Large Folder](x-directory-normal-drag-accept.png)
-
+### - Large
 The bitmap size is 48×48 pixels. This size is mainly used for desktop icons and in the file manager views.
 
-### - X-Large
 ![X-Large Folder](x-directory-normal-drag-accept4.png)
-
+### - X-Large
 This size has been introduced fairly recently and is optional. Unless you are an experienced icon designer, do not start with this size as it goes against most of the good practice for icon design. You will be required to add insane amounts of detail and might end up with an unclear and complex metaphor. The canvas size is 256x256px and unlike all the other sizes, this artwork can be scaled from 49px up. In other words -- do not aim for pixel perfection here.
 
 This size also holds another exception to the rule of stroking. Do not stroke x-large icons with the 1px common everywhere. In Inkscape we use a trick that achieves a similar contrast enhancing effect without losing upwards scalability. You create an outline object with no fill and a stroke of 3px. Then you duplicate such object and use the copy to clip itself. After blurring the object, the inside of the silhouette gets nicely shaded, while the outside is crisp. Instead of the inner stroke, use path shapes. Blur is a useful tool here as well.
