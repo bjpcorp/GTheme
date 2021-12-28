@@ -86,6 +86,7 @@ A very common size of 32x32px is used on some menus (slab) and very common on Wi
 Its bitmap size is 22×22 pixels. This size is common for toolbars in KDE and the GIMP.
 
 Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1 pixel empty space on all sides can make Tango icons useful on the Gnome desktop. One can easily do this with imagemagick:
+> convert -bordercolor Transparent -border 1x1 tango_size.png gnome_size.png
 
 ### - X-Small
 At 16×16 pixels, the "Extra Small" size is used in places such as lists (file dialog, message list in an e-mail client, etc.) and menus.
