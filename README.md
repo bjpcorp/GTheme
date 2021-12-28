@@ -102,9 +102,7 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
 
 Building an addon for Gramps?
 
-Check out the [Gramps Icon Theme Guidelines](https://github.com/bjpcorp/GTheme/tree/main/Gramps_Icon_Theme_Guidelines#readme) & [Gramps Project Icon Template](https://gramps-project.org/wiki/index.php/Template:Icon/doc)
-
-Based on the [Tango Icon Theme Guidelines](http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines)
+Check out the [Gramps Icon Theme Guidelines](https://github.com/bjpcorp/GTheme/tree/main/Gramps_Icon_Theme_Guidelines#readme) & [Gramps Project Icon Template](https://gramps-project.org/wiki/index.php/Template:Icon/doc). Based on the [Tango Icon Theme Guidelines](http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines)
 
 ## Authors
 
