@@ -1,12 +1,12 @@
 # Gramp Icon Theme Guidelines
 1. [Introduction](https://github.com/bjpcorp/GTheme/tree/main/Gramps_Icon_Theme_Guidelines#introduction)	
-2. [Colour Palette](#Color Palette)	
+2. [Colour Palette](#Colour-Palette)	
 ## Introduction
 The Gramps icon theme's goal is to create a distinctive theme guide for Gramps icons. A user running a multiplatform application should not have the impression that the look is unpolished and incosistent with what he or she is used to. While this isn't about merging styles of all desktop systems, we do aim to not be drastically different on each platform.
 
 Along with a generic type fallback, having a similar style will help in the transition phase with some legacy icons which may still remain on a user's particular desktop.
 
-## Color Palette
+## Colour Palette
 <p align="center">
   <img src="https://github.com/bjpcorp/GTheme/blob/main/Gramps_Icon_Theme_Guidelines/gramps-colour-palette.png" width="80%" title="Gramps Colour Palette">
 </p>
