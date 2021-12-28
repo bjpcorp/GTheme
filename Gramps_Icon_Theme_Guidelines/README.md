@@ -1,4 +1,4 @@
-# Gramp Icon Theme Guidelines
+# Gramps Icon Theme Guidelines
 1. [Introduction](#Introduction)	
 2. [Colour Palette](#Colour-Palette)	
 3. [Defining Gramps Style Elements](#defining-gramps-style-elements)
@@ -42,14 +42,14 @@ All Gramps icons are stroked with a thin outline to improve contrast. At low res
 The color of the outline is a dark variant of the key color of the icon. This is done by retaining the hue and saturation of the dominant fill color and lowering the value to approximately 20%). In the example above, the trashcan is green, so the stroke will be green as well.
 
 ### 2. Highlights
-The edges of objects tend to reflect light more due to the fact the position of the observer relative to the light source is almost always ideal for the reflection. In terms of highlights, the theme inherits the style of Tango, Firefox/Thunderbird, Pinstripe/Winstripe designed by Kevin Gerich & Stephen Horlander (Pinstripe, Winstripe) which shift away from reality by creating a second inner outline of the object. This stroke is very subtle and may not be apparent on some matte objects.
+The edges of objects tend to reflect light more due to the fact the position of the observer relative to the light source is almost always ideal for the reflection. In terms of highlights, the Gramps theme inherits the style of Tango, Firefox/Thunderbird, Pinstripe/Winstripe designed by Kevin Gerich & Stephen Horlander (Pinstripe, Winstripe) which shift away from reality by creating a second inner outline of the object. This stroke is very subtle and may not be apparent on some matte objects.
 
 ### 3. Glossy Reflections
 Use glossy reflection only on objects that have a reflective surface in real life (plastic, glass, some metal, et cetera). A sheet of paper certainly doesn't have such attribute.
 Various elements have been picked from existing icon styles: Similar perspective as GNOME icons, a colored object stroke from KDE, an Aqua-like highlight influenced by Mac OS X, and edge highlights and overall lightness from the Firefox Pinstripe theme.
 
 ## Style Attributes
-To better understand the style of Tango, consider the following adjectives:
+To better understand the style of Gramps, consider the following adjectives:
 
 - Light
 - Crisp
@@ -82,7 +82,7 @@ In cases where the object's appearance is more evident from an angle, you are fr
 
 ![Lighting](100px-Lighting.png)
 
-Having homogenous lighting across all icons also is important for visual consistency. Tango icons are lit from above, with the light source slightly to the left. Icons with on the table perspective may cast a fuzzy shadow on the surface as if the light source came from the position of the observer.
+Having homogenous lighting across all icons also is important for visual consistency. Gramps icons are lit from above, with the light source slightly to the left. Icons with on the table perspective may cast a fuzzy shadow on the surface as if the light source came from the position of the observer.
 
 ## Sizes
 There are 4 major icon sizes defined that an icon theme should contain: Large, Medium, Small and Extra Small. Each of these sizes needs to be treated separately, simple scaling of a larger icon doesn't work and ends up looking fuzzy and unclear. On top of that, a new optional size, X-Large, has been introduced.
@@ -96,9 +96,9 @@ A very common size of 32x32px is used on some menus (slab) and very common on Wi
 
 Its bitmap size is 22×22 pixels. This size is common for toolbars in KDE and the GIMP.
 
-Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1 pixel empty space on all sides can make Tango icons useful on the Gnome desktop. One can easily do this with imagemagick:
+Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1 pixel empty space on all sides can make Gramps icons useful on the Gnome desktop. One can easily do this with imagemagick:
 
-```convert -bordercolor Transparent -border 1x1 tango_size.png gnome_size.png```
+```convert -bordercolor Transparent -border 1x1 gramps_size.png gnome_size.png```
 
 ### - X-Small
 At 16×16 pixels, the "Extra Small" size is used in places such as lists (file dialog, message list in an e-mail client, etc.) and menus.
@@ -109,24 +109,22 @@ This size also holds another exception to the rule of stroking. Do not stroke x-
 ## Common Filenaming
 Until now, there has not been a standard for naming conventions. This resulted in themes which have not worked globally, as individual projects have used different names for the same icon.
 
-Tango solves this issue with a Standard Icon Naming Specification
+Gramps solves this issue with a Standard Icon Naming Specification
 
 In the short term, existing KDE and GNOME icons names will be addressed using symlinks. We have prepared a script which automatically generates appropriate symlinks for existing naming schemes in GNOME and KDE so that compatibility with current desktop applications will be preserved.
 
 ## Metainformation
-To make it easier for developers to search for icons in the Tango set, please provide keywords in the icon file. For example, appropriate keywords for a joystick icon are: controller, joystick, game, gaming, HID.
+To make it easier for developers to search for icons in the Gramps set, please provide keywords in the icon file. For example, appropriate keywords for a joystick icon are: controller, joystick, game, gaming, HID.
 
 For SVG icons, the metainformation is written using the Dublin Core namespace.
 
 Inkscape users can conveniently enter the data in the document properties (Ctrl+Shift+D).
 
-FIXME: PNG icons?
-
 ## Suggested Workflow & Support Files
 While each artist prefers his or her own way of working, here's a suggestion how to create all the needed icon versions with as little effort as possible.
 
 Start with the vector icon, having an extra 1:1 view to precisely positioned orthogonals.
-Once finished with the SVG icon, render the icon at 22×22 pixels (either as an export from your vector software or as an import in your bitmap editor) and use the results as a starting point. Most of the time, all you need to do is to recreate the outline stroke and the inner tango highlight with a 1×1 pixel brush.
+Once finished with the SVG icon, render the icon at 22×22 pixels (either as an export from your vector software or as an import in your bitmap editor) and use the results as a starting point. Most of the time, all you need to do is to recreate the outline stroke and the inner Gramps highlight with a 1×1 pixel brush.
 The 16×16 pixel version may start from the SVG as well, but usually the shapes need to be simplified significantly. Having the 22×22 pixel version open just for precise color picking is enough. Sometimes it's also good to start with a detail of the 22×22 pixel version.
 Here's a few sample videos of a Tango icon creation workflow in Inkscape and GIMP.
 
@@ -145,7 +143,7 @@ Here are a few things we suggest you take in consideration when transition from 
 - Only add glossiness for objects which have a shiny property in real life.
 
 ### GNOME artist
-- The toolbar size of 24×24 pixels is not used in Tango themes; it's 22×22 pixels instead.
+- The toolbar size of 24×24 pixels is not used in Gramps themes; it's 22×22 pixels instead.
 - The color palette is more vibrant, saturated.
 - Every icon requires all the sizes provided.
 
