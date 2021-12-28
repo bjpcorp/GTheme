@@ -12,6 +12,12 @@ Working files default and custom SVG icons for use in themes for [The Gramps Pro
 Working files, SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
 
 * Primary Gramps object icons
+<p float="left">
+  <img src="/gtheme-icons/gramps.svg" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+
 * Derived relations and main views
 * Secondary Gramps object icons
 * Actions
