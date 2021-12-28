@@ -89,6 +89,7 @@ There are 4 major icon sizes defined that an icon theme should contain: Large, M
 
 ### - Large
 ![Large Folder](x-directory-normal-drag-accept.png)
+
 This size is mainly used for desktop icons and in the file manager views. The bitmap size is 48×48 pixels.
 
 ### - Medium
