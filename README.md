@@ -51,6 +51,29 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
 </p>
 
 * Actions
+<p float="left">
+  <img src="/gtheme-icons/gramps-bookmark.svg" width="100" />
+  <img src="/gtheme-icons/gramps-bookmark-delete.svg" width="100" /> 
+  <img src="/gtheme-icons/gramps-bookmark-edit.svg" width="100" />
+  <img src="/gtheme-icons/gramps-bookmark-new.svg" width="100" />
+  <img src="/gtheme-icons/gramps-date-edit.svg" width="100" />
+  <img src="/gtheme-icons/gramps-font.svg" width="100" />
+  <img src="/gtheme-icons/gramps-font-color.svg" width="100" />
+  <img src="/gtheme-icons/gramps-font-bgcolor.svg" width="100" />
+  <img src="/gtheme-icons/gramps-lock.svg" width="100" />
+  <img src="/gtheme-icons/gramps-reports.svg" width="100" />
+  <img src="/gtheme-icons/gramps-tag.svg" width="100" />
+  <img src="/gtheme-icons/gramps-tag-new.svg" width="100" />
+  <img src="/gtheme-icons/gramps-tools.svg" width="100" />
+  <img src="/gtheme-icons/gramps-tree-select.svg" width="100" />
+  <img src="/gtheme-icons/gramps-unlock.svg" width="100" />
+  <img src="/gtheme-icons/gramps-viewmedia.svg" width="100" />
+  <img src="/gtheme-icons/gramps-zoom-best-fit.svg" width="100" />
+  <img src="/gtheme-icons/gramps-zoom-fit-width.svg" width="100" />
+  <img src="/gtheme-icons/gramps-zoom-in.svg" width="100" />
+  <img src="/gtheme-icons/gramps-zoom-out.svg" width="100" />
+</p>
+
 * Geography types
 
 16x16px | 24x24px | 48x48px | SVG
