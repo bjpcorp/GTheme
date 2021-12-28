@@ -164,6 +164,6 @@ Contributions are always welcome!
 
 ## License
 
-[![CCBYSA](https://licensebuttons.net/i/l/by-sa/eeeeee/66/22/11/88x31.png)](https://creativecommons.org/licenses/by-sa/2.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 To the extent possible under law, all copyright and related or neighboring rights to this work.
