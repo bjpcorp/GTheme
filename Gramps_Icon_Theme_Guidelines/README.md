@@ -52,7 +52,7 @@ There are three types of perspective defined for Gramps.
 ### 1. Flat/On the Shelf Perspective
 This style resembles looking at an object on a shelf at eye level, looking at an object from above, or laying on surface. This is the most common perspective for toolbar icons and document mime type icons.
 
-### 2.On the Table
+### 2. On the Table
 This type of perspective is the most common for application icons. Action/Toolbar icons also utilize this perspective from time to time.
 
 ### 3. Tilted Table
@@ -65,19 +65,20 @@ Having homogenous lighting across all icons also is important for visual consist
 ## Sizes
 There are 4 major icon sizes defined that an icon theme should contain: Large, Medium, Small and Extra Small. Each of these sizes needs to be treated separately, simple scaling of a larger icon doesn't work and ends up looking fuzzy and unclear. On top of that, a new optional size, X-Large, has been introduced.
 
-- Large
+### - Large
 This size is mainly used for desktop icons and in the file manager views. The bitmap size is 48×48 pixels.
-- Medium
+### - Medium
 A very common size of 32x32px is used on some menus (slab) and very common on Windows.
-- Small
+### - Small
 "Small" is the common size for application toolbar icons.
 
 Its bitmap size is 22×22 pixels. This size is common for toolbars in KDE and the GIMP.
 
 Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1 pixel empty space on all sides can make Tango icons useful on the Gnome desktop. One can easily do this with imagemagick:
-- X-Small
+
+### - X-Small
 At 16×16 pixels, the "Extra Small" size is used in places such as lists (file dialog, message list in an e-mail client, etc.) and menus.
-- X-Large
+### - X-Large
 This size has been introduced fairly recently and is optional. Unless you are an experienced icon designer, do not start with this size as it goes against most of the good practice for icon design. You will be required to add insane amounts of detail and might end up with an unclear and complex metaphor. The canvas size is 256x256px and unlike all the other sizes, this artwork can be scaled from 49px up. In other words -- do not aim for pixel perfection here.
 This size also holds another exception to the rule of stroking. Do not stroke x-large icons with the 1px common everywhere. In Inkscape we use a trick that achieves a similar contrast enhancing effect without losing upwards scalability. You create an outline object with no fill and a stroke of 3px. Then you duplicate such object and use the copy to clip itself. After blurring the object, the inside of the silhouette gets nicely shaded, while the outside is crisp. Instead of the inner stroke, use path shapes. Blur is a useful tool here as well.
 
@@ -116,11 +117,11 @@ Export and tweak if necessary.
 ## Things to Keep in Mind…
 Here are a few things we suggest you take in consideration when transition from existing icon style…
 
-KDE artist
+### KDE artist
 - The stroke (object outline) is 1 pixel for the 48×48 pixel target resolution. KDE icons tend to have a thicker outline.
 - Only add glossiness for objects which have a shiny property in real life.
 
-GNOME artist
+### GNOME artist
 - The toolbar size of 24×24 pixels is not used in Tango themes; it's 22×22 pixels instead.
 - The color palette is more vibrant, saturated.
 - Every icon requires all the sizes provided.
@@ -137,10 +138,9 @@ The overdone shiny, reflective highlight obscures the actual content.
 ## Contribute
 
 Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, all copyright and related or neighboring rights to this work.
