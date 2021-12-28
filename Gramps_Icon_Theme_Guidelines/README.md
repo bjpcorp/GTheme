@@ -74,7 +74,6 @@ This type of perspective is the most common for application icons. Action/Toolba
 
 ![On The Table Perspective](Table-perspective.png)
 
-
 ### 3. Tilted Table
 In cases where the object's appearance is more evident from an angle, you are free to use the tilted table perspective—but this is the least common perspective of the three and should be used only in cases where the other two do not provide a clearly distinctive silhouette of the object.
 
@@ -99,8 +98,9 @@ At 16×16 pixels, the "Extra Small" size is used in places such as lists (file d
 
 Its bitmap size is 22×22 pixels. This size is common for toolbars in KDE and the GIMP.
 
-Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1 pixel empty space on all sides can make Gramps icons useful on the Gnome desktop. One can easily do this with imagemagick:
+Gnome has been using a size of 24×24px (which is ¼ of 48×48); just adding a 1 pixel empty space on all sides can make Gramps icons useful on the Gnome desktop.
 
+One can easily do this with imagemagick:
 ```convert -bordercolor Transparent -border 1x1 gramps_size.png gnome_size.png```
 
 ### - Medium
