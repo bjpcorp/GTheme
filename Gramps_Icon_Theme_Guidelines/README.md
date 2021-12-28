@@ -18,7 +18,7 @@ The Gramps color palette consists of 27 RGB colors, based on the Tango palette, 
 
 The common practice when drawing icons is to use the palette as a base, applying it on large areas. Shading with gradients, creating highlight and shadows by changing value, and minor changes of saturation are also allowed and endorsed. Colors do not have to come exclusively from this set, as additional colors may be used. Starting from the base color and changing value, saturation or even hue slightly gives more consistant results that starting from arbitrary colors.
 
-*Note the latest development version of GIMP and Inkscape ship the Tango palette by default.
+*** Note the latest development version of GIMP and Inkscape ship the Tango palette by default. ***
 
 ## Defining Gramps Style Elements
 
