@@ -143,9 +143,9 @@ The 16×16 pixel version may start from the SVG as well, but usually the shapes 
 
 Here's a few sample videos of a Tango icon creation workflow in Inkscape and GIMP.
 
-[![Creating Vector Icons with Inkscape](https://img.youtube.com/vi/NRVUWRnH5FM/3.jpg)](https://www.youtube.com/watch?v=NRVUWRnH5FM)
+[![Creating Vector Icons with Inkscape](https://img.youtube.com/vi/NRVUWRnH5FM/mqdefault.jpg)](https://www.youtube.com/watch?v=NRVUWRnH5FM)
 
-[![Tango Bitmaps with GIMP](https://img.youtube.com/vi/ooPfYctUfgU/3.jpg)](https://www.youtube.com/watch?v=ooPfYctUfgU)
+[![Tango Bitmaps with GIMP](https://img.youtube.com/vi/ooPfYctUfgU/mqdefault.jpg)](https://www.youtube.com/watch?v=ooPfYctUfgU)
 
 Alternatively, you can create the low resolution version in the vector editor as well:
 
