@@ -1,7 +1,10 @@
 # Gramps Icon Theme Guidelines
 1. [Introduction](#Introduction)	
 2. [Colour Palette](#Colour-Palette)	
-3. [Defining Gramps Style Elements](#defining-gramps-style-elements)
+3. [Defining Gramps Style Elements](#defining-gramps-style-elements) 
+ 1. [Object Outline](#1-object-outline)
+ 2. [Highlights](#2-highlights)
+ 3. [Glossy Reflections](#3-glossy-reflections)
 4. [Style Attributes](#style-attributes)
 5. [Perspective](#perspective)
 6. [Lighting](#lighting)
