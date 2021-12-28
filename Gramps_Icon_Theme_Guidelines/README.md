@@ -12,6 +12,15 @@
 11. [Things To Keep In Mind](#things-to-keep-in-mind)
 12. [Frequent Mistakes](#frequent-mistakes)
 
+| Syntax | Description |
+| --- | ----------- |
+| 1. [Introduction](#Introduction) | 2. [Colour Palette](#Colour-Palette) |
+| 3. [Defining Gramps Style Elements](#defining-gramps-style-elements) | 4. [Style Attributes](#style-attributes) |
+| 5. [Perspective](#perspective) | 6. [Lighting](#lighting) |
+| 7. [Sizes](#sizes) | 8. [Common Filenaming](#common-filenaming) |
+| 9. [Metainformation](#metainformation) | 10. [Suggested Workflow Support Files](#suggested-workflow--support-files) |
+| 11. [Things To Keep In Mind](#things-to-keep-in-mind) | 12. [Frequent Mistakes](#frequent-mistakes) |
+
 ## Introduction
 The Gramps icon theme's goal is to create a distinctive theme guide for Gramps icons. A user running a multiplatform application should not have the impression that the look is unpolished and incosistent with what he or she is used to. While this isn't about merging styles of all desktop systems, we do aim to not be drastically different on each platform.
 
