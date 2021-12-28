@@ -12,8 +12,13 @@ Along with a generic type fallback, having a similar style will help in the tran
   <img src="https://github.com/bjpcorp/GTheme/blob/main/Gramps_Icon_Theme_Guidelines/gramps-colour-palette.png" width="80%" title="Gramps Colour Palette">
 </p>
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+Having a common color palette is required to have a consistant look across all icons. Visual style is heavily influenced by the colors used.
+
+The Gramps color palette consists of 27 RGB colors, based on the Tango palette, as shown on the image above. Most desktops allow for 24-bit RGB icons (+8-bit Alpha channel).
+
+The common practice when drawing icons is to use the palette as a base, applying it on large areas. Shading with gradients, creating highlight and shadows by changing value, and minor changes of saturation are also allowed and endorsed. Colors do not have to come exclusively from this set, as additional colors may be used. Starting from the base color and changing value, saturation or even hue slightly gives more consistant results that starting from arbitrary colors.
+
+*Note the latest development version of GIMP and Inkscape ship the Tango palette by default.
 
 ## Defining Gramps Style Elements
 
