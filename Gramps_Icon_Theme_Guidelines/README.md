@@ -192,5 +192,3 @@ https://commons.wikimedia.org/wiki/Category:Tango_project
 ## License
 
 [![License: CC BY-SA 2.0](https://img.shields.io/badge/License-CC_BY--SA_2.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/2.0/)
-
-To the extent possible under law, [BJPCorp](https://github.com/bjpcorp) has waived all copyright and related or neighboring rights to this work.
