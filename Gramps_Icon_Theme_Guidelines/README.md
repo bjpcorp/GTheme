@@ -91,7 +91,7 @@ There are 4 major icon sizes defined that an icon theme should contain: Large, M
 ![Large Folder](x-directory-normal-drag-accept.png)
 This size is mainly used for desktop icons and in the file manager views. The bitmap size is 48×48 pixels.
 ### - Medium
-![Medium Folder](x-directory-normal-drag-accept.png=32x32)
+![Medium Folder](x-directory-normal-drag-accept1.png)
 
 A very common size of 32x32px is used on some menus (slab) and very common on Windows.
 ### - Small
