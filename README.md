@@ -75,6 +75,19 @@ Working files, SVG Collection of default and new icons for use with Gramps Geneo
 </p>
 
 * Geography types
+<p float="left">
+  <img src="/gtheme-icons/geo-fixed-zoom.svg" width="100" />
+  <img src="/gtheme-icons/geo-free-zoom.svg" width="100" /> 
+  <img src="/gtheme-icons/geo-place-add.svg" width="100" />
+  <img src="/gtheme-icons/geo-place-link.svg" width="100" />
+  <img src="/gtheme-icons/geo-show-event.svg" width="100" />
+  <img src="/gtheme-icons/geo-show-family.svg" width="100" />
+  <img src="/gtheme-icons/geo-show-person.svg" width="100" />
+  <img src="/gtheme-icons/geo-show-place.svg" width="100" />
+  <img src="/gtheme-icons/gramps-fanchart.svg" width="100" />
+  <img src="/gtheme-icons/gramps-geo-mainmap.svg" width="100" />
+  <img src="/gtheme-icons/gramps-geo-altmap.svg" width="100" />
+</p>
 
 16x16px | 24x24px | 48x48px | SVG
 
