@@ -1,10 +1,10 @@
 # Gramp Icon Theme Guidelines
 
 
-# Introduction
-> A curated list of awesome READMEs
+## Introduction
+The Gramps icon theme's goal is to create a distinctive theme guide for Gramps icons. A user running a multiplatform application should not have the impression that the look is unpolished and incosistent with what he or she is used to. While this isn't about merging styles of all desktop systems, we do aim to not be drastically different on each platform.
 
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+Along with a generic type fallback, having a similar style will help in the transition phase with some legacy icons which may still remain on a user's particular desktop.
 
 ## Examples
 
