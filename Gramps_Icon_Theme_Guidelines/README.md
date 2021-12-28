@@ -163,6 +163,8 @@ Contributions are always welcome!
 ## Acknowledgements
 Thanks to some of the original authors and designers of the Tango Desktop Project, in alphabetical order by surname: Lapo Calamandrei, Ryan Collier, Rodney Dawes, Steven Garrity, Tuomas Kuosmanen, Garrett LeSage, Andreas Nilsson, Ulisse Perusin, Jakub Steiner, Corey Woodworth.
 
+https://commons.wikimedia.org/wiki/Category:Tango_project
+
 ## License
 
 [![License: CC BY-SA 2.0](https://img.shields.io/badge/License-CC_BY--SA_2.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/2.0/)
