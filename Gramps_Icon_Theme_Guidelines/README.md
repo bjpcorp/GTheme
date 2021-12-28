@@ -145,8 +145,7 @@ Here's a few sample videos of a Tango icon creation workflow in Inkscape and GIM
 
 [![Creating Vector Icons with Inkscape](https://img.youtube.com/vi/NRVUWRnH5FM/0.jpg)](https://www.youtube.com/watch?v=NRVUWRnH5FM)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
+[![Tango Bitmaps with GIMP](https://img.youtube.com/vi/ooPfYctUfgU/0.jpg)](https://www.youtube.com/watch?v=ooPfYctUfgU)
 
 Alternatively, you can create the low resolution version in the vector editor as well:
 
