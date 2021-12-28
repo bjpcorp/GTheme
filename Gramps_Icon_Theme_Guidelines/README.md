@@ -1,6 +1,10 @@
 # Gramp Icon Theme Guidelines
-1. [Introduction](https://github.com/bjpcorp/GTheme/tree/main/Gramps_Icon_Theme_Guidelines#introduction)	
+1. [Introduction](#Introduction)	
 2. [Colour Palette](#Colour-Palette)	
+3. [Defining Gramps Style Elements](#defining-gramps-style-elements)
+4. [Style Attributes](#style-attributes)	
+
+
 ## Introduction
 The Gramps icon theme's goal is to create a distinctive theme guide for Gramps icons. A user running a multiplatform application should not have the impression that the look is unpolished and incosistent with what he or she is used to. While this isn't about merging styles of all desktop systems, we do aim to not be drastically different on each platform.
 
