@@ -72,7 +72,7 @@ This style resembles looking at an object on a shelf at eye level, looking at an
 ### 2. On the Table
 This type of perspective is the most common for application icons. Action/Toolbar icons also utilize this perspective from time to time.
 
-![On The Table Perspective](Table-perspective.png)
+![Tilted Table Perspective](tilted-table-perspective.png)
 
 ### 3. Tilted Table
 In cases where the object's appearance is more evident from an angle, you are free to use the tilted table perspective—but this is the least common perspective of the three and should be used only in cases where the other two do not provide a clearly distinctive silhouette of the object.
