@@ -34,6 +34,9 @@ There are many attributes of an icon that define it as part of Gramps, including
 
 Let's examine at the key visual aspects that define the style:
 
+![Icon Elements](Unify-icon-elements.png)
+
+
 ### 1. Object Outline
 All Gramps icons are stroked with a thin outline to improve contrast. At low resolutions the stroke size is 1px. The stroke should not scale along with the icon, it should remain 1px.
 The color of the outline is a dark variant of the key color of the icon. This is done by retaining the hue and saturation of the dominant fill color and lowering the value to approximately 20%). In the example above, the trashcan is green, so the stroke will be green as well.
