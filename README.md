@@ -99,7 +99,7 @@ Sizes: 16x16px | 24x24px | 48x48px | SVG
 
 Building an addon for Gramps?
 
-Check out the [Gramps Icon Theme Guidelines](https://github.com/bjpcorp/GTheme/tree/main/Gramps_Icon_Theme_Guidelines#readme) & [Gramps Project Icon Template](https://gramps-project.org/wiki/index.php/Template:Icon/doc).
+Check out the [Gramps Icon Theme Guidelines](https://github.com/bjpcorp/GTheme/tree/main/Gramps_Icon_Theme_Guidelines#readme) & [Wiki: Gramps Icon Set](https://gramps-project.org/wiki/index.php/Gramps_icon_set).
 
 ## Authors
 
