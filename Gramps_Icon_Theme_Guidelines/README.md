@@ -200,6 +200,8 @@ Thanks to some of the original authors and designers of the Tango Desktop Projec
 
 https://commons.wikimedia.org/wiki/Category:Tango_project
 
+http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+
 ## License
 
 [![License: CC BY-SA 2.0](https://img.shields.io/badge/License-CC_BY--SA_2.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/2.0/)
