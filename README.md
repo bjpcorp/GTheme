@@ -1,18 +1,19 @@
+# GTheme
+
 <p align="center">
    <img src="https://repository-images.githubusercontent.com/441462484/15879723-b6f4-44a8-9b07-f4cd2741d8e0" width="95%">
 </p>
 
-# GTheme
+## Description
+
 
 Gtheme is a project designed to establish a distinctive icon stencil theme for The Gramps Project.
 
 Working files, default & custom SVG icons for use in themes for [The Gramps Project](https://github.com/gramps-project/gramps) Geneology Software.
 
+## Gramps Icon Set
+
 * https://gramps-project.org/wiki/index.php/Gramps_icon_set
-
-## Description
-
-Working files, SVG Collection of default and new icons for use with Gramps Geneology Software, requested icons for Gramps Addons and concept icons for future themes.
 
 * Primary Gramps object icons:
 <p float="left">
