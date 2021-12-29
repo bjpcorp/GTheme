@@ -88,7 +88,7 @@ Geography types:
   <img src="/gtheme-icons/gramps-geo-altmap.svg" width="48" />
 </p>
 
-Sizes: 16x16px | 24x24px | 48x48px | SVG
+Sizes: 16x16px | 22x22px | 48x48px | SVG
 
 ### Dependencies
 
